@@ -2,10 +2,11 @@
 
 ---
 
-### Contrubutors data
+### Contributors data
 
 > Instructor:
-***Cristian Camilo: **Cristianco9**
+
+Cristian Camilo: **Cristianco9**
 
 > Students:
 
