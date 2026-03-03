@@ -15,3 +15,5 @@ Alexandra KEDJU MATABARO: **ALcode03**
 OLEMBE MULIRI Freddy: **mulirifreddy01-lang**
 
 Gab-Darlin Mate-Teye: **Gabbie-Darlin**
+
+Yel Mangok John: **Yel-Mangok**
