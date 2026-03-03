@@ -13,3 +13,5 @@ Cristian Camilo: **Cristianco9**
 Alexandra KEDJU MATABARO: **ALcode03**
 
 OLEMBE MULIRI Freddy: **mulirifreddy01-lang**
+
+Gab-Darlin Mate-Teye: **Gabbie-Darlin**
